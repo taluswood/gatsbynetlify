@@ -1,5 +1,5 @@
 ---
-title: "My second blog"
+title: "My second cool blog"
 date: "2018-08-26"
 ---
 
